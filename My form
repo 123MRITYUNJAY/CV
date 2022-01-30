@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Me</title>
+</head>
+<body>
+<h1>my contact details</h1>
+<p>9792032547</p>
+<p>myemail@gmail.com</p>
+<form class= action="ml"index.html method="post>"
+  <label>Your Name></label>
+  <input type="text" name="value"><br>
+  <input type="color"name="value">
+  <input type="password" name="value">
+  <input type="submit"name="">
+ </form>
+</body>
+
+
+</html\>
+
+<<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HTML Input</title>
+</head>
+<body>
+  <form>
+    <input type="text" name=""><br>
+    <input type="submit" name=""><br>
+    <input type="file" name=""><br>
+    <input type="date" name=""><br>
+    <input type="radio" name=""><br>
+    <input type="range" name=""><br>
+  </form>
+
+</body>
+</html>
